@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "ISB Knowledge Repository",
+  "date": "April 2026",
+  "abstract": "Business technology covering AI/ML/LLMs, data science and analytics, cloud infrastructure, emerging technologies, digital transformation, agile development, product management, and cybersecurity.",
+  "rulesCount": 54,
+  "source": "Indian School of Business MBA Curriculum",
+  "license": "MIT"
+}

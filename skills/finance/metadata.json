@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "ISB Knowledge Repository",
+  "date": "April 2026",
+  "abstract": "Comprehensive corporate finance and financial analysis covering financial statements, ratio analysis, DuPont decomposition, DCF/CAPM/WACC valuation, M&A mechanics, private equity, derivatives, and behavioral finance.",
+  "rulesCount": 49,
+  "source": "Indian School of Business MBA Curriculum",
+  "license": "MIT"
+}

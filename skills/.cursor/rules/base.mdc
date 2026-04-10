@@ -1,0 +1,17 @@
+---
+alwaysApply: true
+description: ISB MBA Knowledge System base rules
+---
+
+# ISB MBA Knowledge System
+
+This is a skill group containing 9 MBA domain skills. Each skill has:
+- `SKILL.md` — compact router with priority table
+- `rules/_sections.md` — full index of all rule files
+- `rules/*.md` — individual concept files with YAML frontmatter
+
+## Workflow
+1. Route query to correct domain skill(s)
+2. Scan SKILL.md for relevant sections
+3. Load specific rule files as needed
+4. For cross-domain questions, also check mba-tutor/

@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "ISB Knowledge Repository",
+  "date": "April 2026",
+  "abstract": "Operations management covering process design, capacity planning, Lean/Six Sigma, supply chain optimization, inventory management, operations analytics, project management, queuing theory, and quality management frameworks.",
+  "rulesCount": 53,
+  "source": "Indian School of Business MBA Curriculum",
+  "license": "MIT"
+}

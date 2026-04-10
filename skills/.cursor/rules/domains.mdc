@@ -1,0 +1,16 @@
+---
+alwaysApply: false
+description: Domain-specific rules for ISB MBA skills
+globs: "*/rules/*.md"
+---
+
+# Rule File Format
+
+Each rule file has YAML frontmatter:
+- `title`: Concept name
+- `impact`: CRITICAL | HIGH | MEDIUM
+- `impactDescription`: Why this concept matters
+- `tags`: Comma-separated search terms
+
+Rule files are self-contained. Read them individually, not in bulk.
+Prefer loading CRITICAL impact rules first when multiple rules are relevant.
