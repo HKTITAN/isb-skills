@@ -1,9 +1,9 @@
 ---
-
-## title: "DIVERSIFICATION AND SCOPE"
+title: "DIVERSIFICATION AND SCOPE"
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"
 tags: diversification, marketing, operations, scope, technology
+---
 
 **Definition**: Corporate strategy determines what portfolio of businesses a company should operate and how to manage them for overall value creation.
 

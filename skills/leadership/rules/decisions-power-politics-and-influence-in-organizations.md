@@ -1,9 +1,9 @@
 ---
-
-## title: "Power, Politics, and Influence in Organizations"
+title: "Power, Politics, and Influence in Organizations"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: influence, organizations, politics, power, quantitative, technology
+---
 
 **Sources of organizational power**:
 

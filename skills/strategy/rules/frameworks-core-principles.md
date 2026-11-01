@@ -1,9 +1,9 @@
 ---
-
-## title: "Core Principles"
+title: "Core Principles"
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"
 tags: core, principles, strategy
+---
 
 **1. Start with industry/competitive context**
 

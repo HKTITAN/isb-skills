@@ -1,9 +1,9 @@
 ---
-
-## title: "SERVQUAL Model"
+title: "SERVQUAL Model"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: frameworks, marketing, model, operations, servqual
+---
 
 Five dimensions customers use to evaluate service quality:
 

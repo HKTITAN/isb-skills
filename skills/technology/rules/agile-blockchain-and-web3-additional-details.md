@@ -1,9 +1,9 @@
 ---
-
-## title: "Blockchain and Web3 (Additional Details)"
+title: "Blockchain and Web3 (Additional Details)"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: additional, blockchain, details, finance, technology
+---
 
 **Consensus Mechanisms**:
 

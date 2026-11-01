@@ -1,9 +1,9 @@
 ---
-
-## title: "Lean Manufacturing"
+title: "Lean Manufacturing"
 impact: HIGH
 impactDescription: "Important concept frequently tested in cases"
 tags: finance, lean, manufacturing, marketing, operations, technology
+---
 
 Lean is a systematic approach to identifying and eliminating waste while maximizing customer value.
 

@@ -1,9 +1,9 @@
 ---
-
-## title: "BLUE OCEAN STRATEGY"
+title: "BLUE OCEAN STRATEGY"
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"
 tags: blue, ocean, strategy
+---
 
 **Definition**: Creating uncontested market spaces (blue oceans) through value innovation rather than competing in existing markets (red oceans).
 

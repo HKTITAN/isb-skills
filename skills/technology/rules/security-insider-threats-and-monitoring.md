@@ -1,9 +1,9 @@
 ---
-
-## title: "Insider Threats and Monitoring"
+title: "Insider Threats and Monitoring"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: insider, monitoring, quantitative, technology, threats
+---
 
 **High-Risk Roles**: DBAs, finance/HR staff, departing employees, contractors.
 

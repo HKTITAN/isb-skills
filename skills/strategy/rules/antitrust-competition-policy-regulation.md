@@ -1,9 +1,9 @@
 ---
-
-## title: "COMPETITION POLICY & REGULATION"
+title: "COMPETITION POLICY & REGULATION"
 impact: HIGH
 impactDescription: "Important concept frequently tested in cases"
 tags: competition, frameworks, marketing, policy, regulation, strategy, technology
+---
 
 **Definition**: How regulation of market power affects strategy and competition.
 

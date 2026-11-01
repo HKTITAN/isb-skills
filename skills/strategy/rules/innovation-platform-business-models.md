@@ -1,9 +1,9 @@
 ---
-
-## title: "PLATFORM BUSINESS MODELS"
+title: "PLATFORM BUSINESS MODELS"
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"
 tags: business, frameworks, marketing, models, operations, platform
+---
 
 **Definition**: Businesses creating value by connecting different user groups whose interactions create mutual benefit.
 

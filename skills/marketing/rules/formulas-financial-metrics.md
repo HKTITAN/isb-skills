@@ -1,9 +1,9 @@
 ---
-
-## title: "Financial Metrics"
+title: "Financial Metrics"
 impact: HIGH
 impactDescription: "Important concept frequently tested in cases"
 tags: finance, financial, marketing, metrics, quantitative
+---
 
 **Customer Acquisition Cost (CAC):**
 CAC = Total Marketing & Sales Spend / Number of Customers Acquired

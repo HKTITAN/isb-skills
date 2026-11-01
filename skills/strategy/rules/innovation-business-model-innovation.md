@@ -1,9 +1,9 @@
 ---
-
-## title: "BUSINESS MODEL INNOVATION"
+title: "BUSINESS MODEL INNOVATION"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: business, frameworks, innovation, model
+---
 
 **Definition**: Changing how a company creates, delivers, and captures value—often more powerful than product innovation.
 

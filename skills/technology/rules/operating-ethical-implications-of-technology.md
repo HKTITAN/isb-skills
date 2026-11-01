@@ -1,6 +1,6 @@
 ---
-
-## title: "Ethical Implications of Technology"
+title: "Ethical Implications of Technology"
+---
 
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"

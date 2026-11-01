@@ -1,7 +1,7 @@
 ---
-
-## paths:
+paths:
   - "economics/**"
+---
 
 # ISB Economics Domain Rules
 

@@ -1,9 +1,9 @@
 ---
-
-## title: "Predictive Analytics & Machine Learning"
+title: "Predictive Analytics & Machine Learning"
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"
 tags: analytics, economics, learning, machine, marketing, predictive
+---
 
 **Business Applications**:
 

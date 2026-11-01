@@ -1,7 +1,7 @@
 ---
-
-## paths:
+paths:
   - "operations/**"
+---
 
 # ISB Operations Domain Rules
 

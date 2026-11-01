@@ -1,9 +1,9 @@
 ---
-
-## title: "Natural Language Processing (NLP)"
+title: "Natural Language Processing (NLP)"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: frameworks, language, marketing, natural, nlp, processing, technology
+---
 
 **NLP Tasks**:
 

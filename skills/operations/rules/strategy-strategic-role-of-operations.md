@@ -1,9 +1,9 @@
 ---
-
-## title: "Strategic Role of Operations"
+title: "Strategic Role of Operations"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: operations, quantitative, role, strategic, strategy, technology
+---
 
 Operations is often viewed as a cost center. Strategic operations creates advantage through:
 

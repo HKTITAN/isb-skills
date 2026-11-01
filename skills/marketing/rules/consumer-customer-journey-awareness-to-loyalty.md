@@ -1,9 +1,9 @@
 ---
-
-## title: "Customer Journey: Awareness to Loyalty"
+title: "Customer Journey: Awareness to Loyalty"
 impact: HIGH
 impactDescription: "Important concept frequently tested in cases"
 tags: awareness, customer, journey, loyalty, marketing, quantitative
+---
 
 **Awareness**: Customer recognizes need. Marketing creates visibility through ads, content, PR, word-of-mouth.
 

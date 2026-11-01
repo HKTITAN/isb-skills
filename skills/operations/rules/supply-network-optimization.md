@@ -1,9 +1,9 @@
 ---
-
-## title: "Network Optimization"
+title: "Network Optimization"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: network, optimization, technology
+---
 
 **Transportation Problem**: Minimize cost of shipping from multiple sources to multiple destinations.
 

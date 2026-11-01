@@ -1,9 +1,9 @@
 ---
-
-## title: "Cialdini's Six Principles of Influence"
+title: "Cialdini's Six Principles of Influence"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: cialdini, influence, leadership, principles, six
+---
 
 **Reciprocity**: People feel obligated to return favors and treat others as they've been treated.
 

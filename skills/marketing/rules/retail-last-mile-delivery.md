@@ -1,9 +1,9 @@
 ---
-
-## title: "Last-Mile Delivery"
+title: "Last-Mile Delivery"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: delivery, frameworks, last, marketing, mile
+---
 
 **Models:**
 
