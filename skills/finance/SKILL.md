@@ -1,12 +1,12 @@
 ---
-
-## name: finance
+name: finance
 description: >-
   Use this skill whenever the user asks about financial analysis, valuation, accounting, capital structure, balance sheets, financial statements, DCF, WACC, equity analysis, debt markets, credit analysis, M&A finance, corporate finance, financial reporting, working capital, cash flow analysis, financial modeling, cost of capital, capital allocation, financial metrics, IPOs, term sheets, risk management, derivatives, fintech, or any question involving company valuation, financial statement interpretation, or investment decisions.
 license: MIT
 metadata:
   author: ISB-Knowledge-Repository
   version: "1.0.0"
+---
 
 # ISB Finance
 

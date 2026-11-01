@@ -1,9 +1,9 @@
 ---
-
-## title: "Statistical Methods"
+title: "Statistical Methods"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: methods, statistical, technology
+---
 
 **Descriptive Statistics**: Mean, median, standard deviation, correlation summarize data.
 

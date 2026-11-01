@@ -1,9 +1,9 @@
 ---
-
-## title: "Agentic AI"
+title: "Agentic AI"
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"
 tags: agentic, frameworks, technology
+---
 
 **Agentic systems** operate autonomously, breaking complex tasks into subtasks, using tools, and iterating until goals are met.
 

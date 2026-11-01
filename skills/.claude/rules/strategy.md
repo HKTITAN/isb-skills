@@ -1,7 +1,7 @@
 ---
-
-## paths:
+paths:
   - "strategy/**"
+---
 
 # ISB Strategy Domain Rules
 

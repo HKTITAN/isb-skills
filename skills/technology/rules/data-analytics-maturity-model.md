@@ -1,6 +1,6 @@
 ---
-
-## title: "Analytics Maturity Model"
+title: "Analytics Maturity Model"
+---
 
 impact: HIGH
 impactDescription: "Important concept frequently tested in cases"

@@ -1,9 +1,9 @@
 ---
-
-## title: "Alternative Methodologies"
+title: "Alternative Methodologies"
 impact: HIGH
 impactDescription: "Important concept frequently tested in cases"
 tags: alternative, methodologies, technology
+---
 
 **Kanban**: Visualize work as items flowing through columns (To-Do → In Progress → Done). Pull-based; continuous flow; no fixed sprints. Limit work in progress (WIP) to reveal bottlenecks and force focus. Better for maintenance and unknown scope. Kanban vs Scrum: Kanban = continuous flow; Scrum = sprint cycles. Many teams use "Scrumban" combining both.
 

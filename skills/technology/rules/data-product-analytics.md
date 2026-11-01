@@ -1,9 +1,9 @@
 ---
-
-## title: "Product Analytics"
+title: "Product Analytics"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: analytics, product, quantitative, technology
+---
 
 **Metrics Funnel**:
 

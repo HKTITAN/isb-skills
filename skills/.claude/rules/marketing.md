@@ -1,7 +1,7 @@
 ---
-
-## paths:
+paths:
   - "marketing/**"
+---
 
 # ISB Marketing Domain Rules
 

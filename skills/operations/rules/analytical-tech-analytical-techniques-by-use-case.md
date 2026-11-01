@@ -1,9 +1,9 @@
 ---
-
-## title: "ANALYTICAL TECHNIQUES BY USE CASE"
+title: "ANALYTICAL TECHNIQUES BY USE CASE"
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"
 tags: analytical, case, frameworks, marketing, techniques, use
+---
 
 **Demand and Sales Forecasting**:
 

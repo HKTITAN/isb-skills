@@ -1,9 +1,9 @@
 ---
-
-## title: "AI Business Applications"
+title: "AI Business Applications"
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"
 tags: applications, business, marketing, technology
+---
 
 **Sales & Marketing**:
 

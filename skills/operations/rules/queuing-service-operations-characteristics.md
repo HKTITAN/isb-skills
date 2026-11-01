@@ -1,9 +1,9 @@
 ---
-
-## title: "Service Operations Characteristics"
+title: "Service Operations Characteristics"
 impact: HIGH
 impactDescription: "Important concept frequently tested in cases"
 tags: characteristics, operations, quantitative, service
+---
 
 Service operations fundamentally differ from manufacturing:
 

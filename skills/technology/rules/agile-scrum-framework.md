@@ -1,9 +1,9 @@
 ---
-
-## title: "Scrum Framework"
+title: "Scrum Framework"
 impact: HIGH
 impactDescription: "Important concept frequently tested in cases"
 tags: framework, frameworks, marketing, scrum, technology
+---
 
 **Scrum Framework**: Sprint cycles (1-4 weeks), defined roles, ceremonies, artifacts. Most structured agile approach.
 

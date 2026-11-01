@@ -1,9 +1,9 @@
 ---
-
-## title: "Blockchain and Web3"
+title: "Blockchain and Web3"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: blockchain, technology
+---
 
 **Distributed Ledger Fundamentals**: Blockchain is distributed ledger where records (blocks) are linked cryptographically and replicated across many nodes. No central authority, immutability (tampering evident), transparency (all participants see transactions).
 

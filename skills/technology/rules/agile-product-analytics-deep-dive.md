@@ -1,9 +1,9 @@
 ---
-
-## title: "Product Analytics Deep Dive"
+title: "Product Analytics Deep Dive"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: analytics, deep, dive, product, quantitative, technology
+---
 
 **Metrics Funnel**: Users Acquired → Activated → Engaged → Retained → Monetized.
 

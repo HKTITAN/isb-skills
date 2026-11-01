@@ -1,9 +1,9 @@
 ---
-
-## title: "STP Framework: Segmentation, Targeting, Positioning"
+title: "STP Framework: Segmentation, Targeting, Positioning"
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"
 tags: framework, frameworks, marketing, positioning, segmentation, stp, strategy, targeting
+---
 
 STP moves from broad market definition to focused strategy. It answers: Who are we serving, and how do we differentiate?
 

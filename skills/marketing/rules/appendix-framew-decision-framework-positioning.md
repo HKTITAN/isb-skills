@@ -1,9 +1,9 @@
 ---
-
-## title: "Decision Framework: Positioning"
+title: "Decision Framework: Positioning"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: decision, framework, frameworks, marketing, positioning, strategy
+---
 
 Choose positioning on two dimensions:
 

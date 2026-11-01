@@ -1,9 +1,9 @@
 ---
-
-## title: "Build vs Buy vs Partner Decisions"
+title: "Build vs Buy vs Partner Decisions"
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"
 tags: build, buy, decisions, partner, strategy
+---
 
 **Build**: Proprietary advantage if core to strategy, full control; higher cost and timeline; requires talent retention.
 

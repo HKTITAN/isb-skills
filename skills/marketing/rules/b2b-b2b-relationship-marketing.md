@@ -1,9 +1,9 @@
 ---
-
-## title: "B2B Relationship Marketing"
+title: "B2B Relationship Marketing"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: marketing, relationship, technology
+---
 
 Success depends on trust and relationships:
 

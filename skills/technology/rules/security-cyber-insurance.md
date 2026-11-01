@@ -1,6 +1,6 @@
 ---
-
-## title: "Cyber Insurance"
+title: "Cyber Insurance"
+---
 
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"

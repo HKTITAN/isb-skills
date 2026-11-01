@@ -1,9 +1,9 @@
 ---
-
-## title: "Supply Chain Strategy"
+title: "Supply Chain Strategy"
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"
 tags: chain, operations, strategy, supply, technology
+---
 
 **End-to-End Perspective**: Optimize entire chain from raw materials through final delivery, not individual functions. Recognize that optimizing one node (e.g., procurement cost) may create problems downstream.
 

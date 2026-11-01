@@ -1,9 +1,9 @@
 ---
-
-## title: "Cost Management"
+title: "Cost Management"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: cost, management, quantitative, technology
+---
 
 **Estimation Techniques**:
 

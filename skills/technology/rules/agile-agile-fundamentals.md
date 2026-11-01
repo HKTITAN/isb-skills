@@ -1,9 +1,9 @@
 ---
-
-## title: "Agile Fundamentals"
+title: "Agile Fundamentals"
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"
 tags: agile, fundamentals, leadership, marketing, quantitative, technology
+---
 
 **Agile Manifesto values**:
 

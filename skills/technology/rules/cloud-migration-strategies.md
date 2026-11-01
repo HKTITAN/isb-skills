@@ -1,9 +1,9 @@
 ---
-
-## title: "Migration Strategies"
+title: "Migration Strategies"
 impact: CRITICAL
 impactDescription: "Core MBA framework, foundational to domain"
 tags: finance, leadership, migration, quantitative, strategies, technology
+---
 
 **Lift-and-Shift**: Move applications as-is (minimal changes, faster migration).
 

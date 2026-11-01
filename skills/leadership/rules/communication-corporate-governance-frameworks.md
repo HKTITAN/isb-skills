@@ -1,9 +1,9 @@
 ---
-
-## title: "Corporate Governance Frameworks"
+title: "Corporate Governance Frameworks"
 impact: HIGH
 impactDescription: "Important concept frequently tested in cases"
 tags: corporate, finance, frameworks, governance, leadership
+---
 
 **Regulatory Requirements**:
 

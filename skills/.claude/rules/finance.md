@@ -1,7 +1,7 @@
 ---
-
-## paths:
+paths:
   - "finance/**"
+---
 
 # ISB Finance Domain Rules
 

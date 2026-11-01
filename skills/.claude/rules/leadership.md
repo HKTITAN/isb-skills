@@ -1,7 +1,7 @@
 ---
-
-## paths:
+paths:
   - "leadership/**"
+---
 
 # ISB Leadership Domain Rules
 

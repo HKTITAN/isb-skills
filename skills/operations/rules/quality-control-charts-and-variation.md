@@ -1,9 +1,9 @@
 ---
-
-## title: "Control Charts and Variation"
+title: "Control Charts and Variation"
 impact: MEDIUM
 impactDescription: "Supporting concept that enhances domain understanding"
 tags: charts, control, variation
+---
 
 **Types of Variation**:
 
